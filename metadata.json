@@ -1,0 +1,6 @@
+{
+  "name": "Auth Anomaly Orchestrator",
+  "description": "An AI-powered agent that orchestrates diagnostic tools to analyze transaction authorization anomalies and decline reasons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
